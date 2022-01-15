@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: content-box;
+}
+
+#content {
+    max-width: 70%;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: auto;
+    margin-top: 30px;
+    padding: 10px 40px;
+}
+
+body {
+    color: seashell;
+    background-image: url(./images/uhdpaper.com-1290d-pc-hd.jpg)
+}
+
+#container {
+    margin: auto;
+    max-width: 60%;
+    padding: 10px 40px;
+}
+
+#header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+h3 {
+    padding: 10px;
+}
+
+#video {
+    margin-right: -70px;
+    background-image: url(./images/Pain-Box-Dune.png);
+    background-size: auto;
+}
+
+#forms {
+    margin: auto;
+}
+
+#name,
+#email {
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
